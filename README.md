@@ -1,7 +1,10 @@
-# invoice-finance-config
-this is for the configuration done for the invoice finance Dockerfiles, api gateway configuration.
-# other service repositories 
-## auth-service : [https://github.com/mohitkmeena/invoice-finance-auth](https://github.com/mohitkmeena/invoice-finance-auth.git)
-## company-service : [https://github.com/mohitkmeena/invoice-finance-auth](https://github.com/mohitkmeena/invoice-financing-company.git)
-## investor-service : [https://github.com/mohitkmeena/invoice-finance-auth](https://github.com/mohitkmeena/invoice-financing-investor.git)
+# Invoice Finance Configuration
 
+Configuration for Dockerfiles and API Gateway.
+
+## Service Repositories
+
+- **Auth Service**: [invoice-finance-auth](https://github.com/mohitkmeena/invoice-finance-auth.git)
+  - User signup/login for the invoice-financing platform backend.
+- **Company Service**: [invoice-financing-company](https://github.com/mohitkmeena/invoice-financing-company.git)
+- **Investor Service**: [invoice-financing-investor](https://github.com/mohitkmeena/invoice-financing-investor.git)
